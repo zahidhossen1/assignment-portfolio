@@ -54,7 +54,7 @@ border: none;
     padding: 130px 85px 0px 205px;
 }
 .previyous{
-padding:370px 322px 0px 20px;
+padding:370px 322px 0px 0px;
 
 }
 .previyous-title{
@@ -74,4 +74,111 @@ margin-bottom: 24px;
 .previyous-list{
     margin-bottom: 8px;
     list-style: none;
+    width: 349px;
+    /* margin-right: 350px; */
 }
+.section-title{
+    color: #151414;
+    font-weight: 700;
+font-size: 40px;
+text-align: center;
+margin-top: 92px;
+}
+.my-plan-skill{
+    display: flex;
+    gap: 86px;
+    margin-left: 450px;
+    /* margin-right: 450px; */
+    margin-top: 50px;
+    
+    /* margin: 50px 30px 0px 230px; */
+}
+.skill-title{
+    font-weight: 700;
+font-size: 30px;
+
+}
+.skill-description{
+    font-weight: 500;
+font-size: 25px;
+}
+.call-now-title{
+    width: 459px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+    
+}
+.call-now-text{
+   padding: 59px 617px 59px 64px;
+}
+.call-now{
+    
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),  url(../images/watch.png); 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 129px 230px 129px 230px;
+    border-radius: 8px;
+    padding: 30px 0px ;
+    
+    
+}
+
+.footer-style{
+    display: flex;
+    background-color: #151414;
+    height: 577px;
+    justify-content: space-around;
+    padding: 130px 229px 0px 229px;
+    
+   
+   
+}
+.future-title{
+    color: #F8F8F8;
+    font-weight: 700;
+font-size: 45px;
+margin-bottom: 16px;
+}
+.future-description{
+    width: 485px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+.future-email {
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+.future-phone{
+    color: #FFFFFF;
+    margin-bottom: 32px;
+}
+.future-image{
+    list-style-type: none;
+
+}
+.future-image a{
+    text-decoration: none;
+}
+
+.title-subscrive{
+    color: #FFFFFF;
+    font-weight: 600;
+font-size: 25px;
+width: 123px;
+margin-bottom: 31px;
+}
+.future-email-box{
+    font-size: 18px;
+   padding: 21px 158px 21px 21px;
+   margin-bottom: 10px;
+   border: 1px solid rgba(255, 255, 255, 1);
+   background-color: #151414;
+ 
+    
+   
+    
+    
+}
+
