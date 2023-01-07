@@ -1,0 +1,77 @@
+* {
+    margin: 0px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.header .background-image{
+    width: 2055px;
+height: 808px;
+background-size: cover;
+background-image: url(../images/banner/banner3.png)
+
+}
+
+
+.banner {
+    text-align: right;
+    margin-right: 230px;
+  padding-top: 216px;
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+    margin-bottom: 24pxpx;
+    width: 525px;
+    margin-left: 1288px;
+
+
+}
+
+.banner-description {
+    color: #FFFFFF;
+    margin-bottom: 32px;
+    width: 494px;
+    margin-left: 1320px;
+
+}
+
+.button-primary {
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    background: #F15B22;
+border-radius: 5px;
+padding: 20px 25px;
+border: none;
+}
+.image-previyous{
+    display: flex;
+    justify-content: space-around;
+}
+.person-image{
+    padding: 130px 85px 0px 205px;
+}
+.previyous{
+padding:370px 322px 0px 20px;
+
+}
+.previyous-title{
+    font-weight: 700;
+font-size: 40px;
+width: 416px;
+height: 104px;
+color: #151414;
+margin-bottom: 24px;
+
+}
+.previyous-description{
+    width: 416px;
+    color: #444343;
+    margin-bottom: 16px;
+}
+.previyous-list{
+    margin-bottom: 8px;
+    list-style: none;
+}
